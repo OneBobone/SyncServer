@@ -43,3 +43,6 @@ allowing local browsing and playback through the **Nuvo** and **Mirage** apps.
 
 **Comments:**
 - Other sources besides Spotify, Apple Music, and SoundCloud can also be supported.
+
+For any questions, post me at: 
+https://www.avsforum.com
