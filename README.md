@@ -9,7 +9,8 @@ allowing local browsing and playback through the **Nuvo** and **Mirage** apps.
 
 - Log in to **Spotify** on the MPS4 using your preferred browser (Chrome or Edge).  
 - Install this application. It will install as a service.  
-- Navigate to this page.
+- Once launched a webserver is available on port 9000.
+- Navigate to localhost:9000/intro.html
 
 ---
 
