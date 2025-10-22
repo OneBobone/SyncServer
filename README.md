@@ -7,8 +7,10 @@ allowing local browsing and playback through the **Nuvo** and **Mirage** apps.
 
 ### Get started
 
-- Log in to **Spotify** on the MPS4 using your preferred browser (Chrome or Edge).  
-- Install this application. It will run as an application with a minimized window. 
+- Download the installer from GitHub to the MPS4.
+- On the MPS4, log in to **Spotify.com** using Chrome.
+- Install SyncServer from the Installer.
+- It will run as an application with a minimized window. 
 - Once launched a webserver is available on port 9000.
 - Navigate to localhost:9000/intro.html
 
